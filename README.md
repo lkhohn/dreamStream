@@ -16,6 +16,7 @@ All data inputs are calculated and visualized in charts to show average mood, av
 
 The common words from the dreams are populated into a word cloud. Filters are added to exclude common words like "a, the, and, etc." You can also add custom word filters to exclude any other common words that you do not want to see in your word cloud.
 
+My responsibilities included Express routes, authenication, Json web tokens, D3 scatter plot and Ionic deployment.
 
 ## Technologies
   * HTML
